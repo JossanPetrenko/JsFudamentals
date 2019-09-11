@@ -118,6 +118,3 @@ function operatorPrecedence() {
 
     console.log("Operator Precedence");
 }
-
-
-

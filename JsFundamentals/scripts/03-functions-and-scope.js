@@ -221,5 +221,3 @@ function defaultParameters() {
 
     console.log("Default Parameters");
 }
-
-
